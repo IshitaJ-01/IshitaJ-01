@@ -12,7 +12,9 @@
 ​💻 Tech I use:
 
 ​Tools: Power BI, Tableau, Excel, VS Code
+
 ​Languages: SQL,Python,Flutter 
+
 ​Learning: Data Modeling,Data Science,Gen AI
 
 ​🌱 Fun Fact:
