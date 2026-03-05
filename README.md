@@ -17,4 +17,5 @@
 ​When I’m not staring at dashboards, I’m probably practicing industry simulations (like the ones I did for Deloitte and Siemens) to see how data works in the real world.
 
 ​📫 Reach me here:
+
 ​LinkedIn: https://www.linkedin.com/in/ishita-jaiswal-94b47b343?utm_source=share_via&utm_content=profile&utm_medium=member_android
